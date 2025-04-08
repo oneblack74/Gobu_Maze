@@ -41,8 +41,8 @@ Le jeu est disponible en téléchargement sur Itch.io :
 | Rôle | Nom | GitHub |
 |------|-----|--------|
 | 🎲 Développeur | Axel Brissy | [oneblack74](https://github.com/oneblack74) |
-| 🎲 Développeur | Mathis Ferreira Da Silva | [GitHub](https://github.com/MathisFeDaSi) |
-| 🎨 Graphiste | Carole Mackowiak | [GitHub](https://github.com/Carole-prog) |
+| 🎲 Développeur | Mathis Ferreira Da Silva | [MathisFeDaSi](https://github.com/MathisFeDaSi) |
+| 🎨 Graphiste | Carole Mackowiak | [Carole-prog](https://github.com/Carole-prog) |
 | 🎨 Graphiste | Whitney Wable | X |
 
 ---
